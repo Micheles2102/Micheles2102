@@ -4,13 +4,13 @@ Hi, I'm Michele! ✨
 💡 I try to work on new projects to stay consistent<br/>
 
 🔥 What I'm up to:<br/>
-🔭 I’m currently working on how to program a shell in C 🖥️<br/>
+🔭 I’m currently working on memory allocation in c 🖥️<br/>
 
 🌱 I’m currently learning Machine Learning 🤖<br/>
 
 📫 How to reach me: Telegram: @Sbracato ✉️<br/>
 
-⚡ Fun fact: Programming in C is fun because you can C so much! 👀<br/>
+⚡ Fun fact: no Fun fact 👀<br/>
 
 
 # 💻 Tech Stack:
