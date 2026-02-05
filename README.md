@@ -1,16 +1,18 @@
-Hi, I'm Michele! ✨
-🎓 I hold a degree in Computer Science from the University of Catania<br/>
-📚 I am currently enrolled in the Master's program (LM-18) at the same university.<br/>
-💡 I try to work on new projects to stay consistent<br/>
-
+Hi, I'm Michele! <br/>
+--------------------------------------------------------------------------------------
+🔭*About me: 
+& I hold a degree in Computer Science from the University of Catania<br/>
+& I am currently enrolled in the Master's program (LM-18) at the same university.<br/>
+& I try to work on new projects to stay consistent<br/>
+--------------------------------------------------------------------------------------
 🔥 What I'm up to:<br/>
-🔭 I’m currently working on NLP & transformer 🖥️<br/>
-
-🌱 I’m currently learning Machine Learning 🤖<br/>
-
+   | I’m currently working on NLP & transformer 🖥️<br/>
+   | 
+   | I’m currently learning Machine Learning 🤖<br/>
+--------------------------------------------------------------------------------------
 📫 How to reach me: Telegram: @Sbracato ✉️<br/>
 
-⚡ Try to improve everyday<br/>
+⚡ Be better piece by piece<br/>
 
 
 # 💻 Tech Stack:
