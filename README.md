@@ -6,8 +6,8 @@ Hi, I'm Michele! <br/>
    ->   I try to work on new projects to stay consistent<br/>
 --------------------------------------------------------------------------------------
 🔥 What I'm up to:<br/>
-   |    I’m currently working on NLP & transformer 🖥️<br/>
-   |    I’m currently learning Machine Learning 🤖<br/>
+   |    I am currently working on a hand and object detection project using deep learning. 🖥️<br/>
+   |    I’m currently learning Deep Learning 🤖<br/>
 --------------------------------------------------------------------------------------
 📫 How to reach me: Telegram: @Sbracato ✉️<br/>
 
